@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 🌱 Who I Am
-I'm currently pursuing a Computer Programming & Analysis Advanced Diploma at Seneca College. 
+I'm currently pursuing a Computer Programming & Analysis Advanced Diploma at Seneca College. <br>
 In the past two years I have spent most of my time around learning, building, and collaborating to create meaningful software solutions that solve real-world problems. 
 I thrive in both individual and team projects.
 
