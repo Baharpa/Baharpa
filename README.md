@@ -5,10 +5,15 @@ In the past two years I have spent most of my time around learning, building, an
 I thrive in both individual and team projects.
 
 ### 🌟 Why Choose Me? 
-- Strong programming fundamentals with experience in C++, Python, and JavaScript.
+- Strong programming fundamentals with experience in ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  , JavaScript, Python, TypeScript, C, C#, HTML/CSS.
 - Experience with web frameworks such as React, Angular, and Node.js for building applications.
 - Experience working with multiple database systems and ensuring efficient data management.
-- An innovative mindset focused on clean code, efficient algorithms, and teamwork.
+- Skilled in database systems such as MySQL, MongoDB, and PostgreSQL for data-driven projects.
+- Experienced in debugging, testing, and troubleshooting code to ensure smooth application performance.
+- Familiar with version control systems like Git to collaborate effectively on team projects.
+- Knowledgeable in using REST APIs and JSON for seamless data communication.
+- Currently exploring TensorFlow and PyTorch to expand my understanding of machine learning.
+- Actively applying Agile principles to manage projects and deliver results efficiently.
 
 ### 🛠 My Toolbox
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)   ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
