@@ -2,7 +2,7 @@
 - I'm currently pursuing a Computer Programming & Analysis Advanced Diploma at Seneca College. <br>
 - In the past two years I have spent most of my time around learning, building, and collaborating to create new software and applications that solve real-world problems. <br>
 - I thrive in both individual and team projects.<br>
-- Looking for a Software Developer Co-op position where I can use my programming skills to use, work on real projects, and learn from experienced.
+- Looking for a Software Developer Co-op position where I can use my programming skills to use, work on real projects, and learn from more experienced people.
 
 
 ### 🌟 Why Choose Me? 
