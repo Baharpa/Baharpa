@@ -1,5 +1,5 @@
-# Who I Am
-- I'm currently pursuing a Computer Programming & Analysis Advanced Diploma at Seneca College. <br>
+# Who I Am:
+- My name is Bahar Parsaeian and I'm currently pursuing a Computer Programming & Analysis Advanced Diploma at Seneca College. <br>
 - In the past two years I have spent most of my time around learning, building, and collaborating to create new software and applications that solve real-world problems. <br>
 - I thrive in both individual and team projects.<br>
 - Looking for a Software Developer Co-op position where I can use my programming skills to use, work on real projects, and learn from more experienced people.
