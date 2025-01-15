@@ -1,11 +1,11 @@
-# 🌱 Who I Am
+# Who I Am
 - I'm currently pursuing a Computer Programming & Analysis Advanced Diploma at Seneca College. <br>
 - In the past two years I have spent most of my time around learning, building, and collaborating to create new software and applications that solve real-world problems. <br>
 - I thrive in both individual and team projects.<br>
 - Looking for a Software Developer Co-op position where I can use my programming skills to use, work on real projects, and learn from more experienced people.
 
 
-### 🌟 Why Choose Me? 
+### Why Choose Me? 
 - Strong programming fundamentals with experience in C++, JavaScript, Python, TypeScript, C, C#, HTML/CSS.
 - Experience with web frameworks such as React, Angular, and Node.js for building applications.
 - Experienced in debugging, testing, and troubleshooting code to ensure the application runs correctly.
