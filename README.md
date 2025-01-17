@@ -6,11 +6,12 @@
 
 
 ### Why Choose Me? 
-- Strong programming fundamentals with experience in C++, JavaScript, HTML, CSS, Python, TypeScript, C, C#.
+- Strong programming fundamentals with experience in C++, C, JavaScript, HTML, CSS.
 - Experience with web frameworks such as React, Angular, and Node.js for building applications.
 - Experienced in debugging, testing, and troubleshooting code to ensure the application runs correctly.
 - Familiar with version control systems like Git and Jira to collaborate effectively on team projects.
 - Knowledgeable in using REST APIs and JSON for data communication.
+- Currently learning Python, TypeScript, React.
 
 ### My Skills: 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)   ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
