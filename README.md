@@ -7,7 +7,7 @@
 
 ### Why Choose Me? 
 - Strong programming fundamentals with experience in C++, C, JavaScript, HTML, CSS.
-- Experience with web frameworks such as React, Angular, and Node.js for building applications.
+- Experience with web frameworks such as Angular, and Node.js for building applications.
 - Experienced in debugging, testing, and troubleshooting code to ensure the application runs correctly.
 - Familiar with version control systems like Git and Jira to collaborate effectively on team projects.
 - Knowledgeable in using REST APIs and JSON for data communication.
