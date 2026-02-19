@@ -1,17 +1,15 @@
 # Who I Am:
-- My name is Bahar Parsaeian and I love programming. <br>
 - In the past two years I have spent most of my time around learning, building, and collaborating to create new software and applications that solve real-world problems. <br>
-- I thrive in both individual and team projects.<br>
-- Looking for a Software Developer Co-op position where I can use my programming skills to use, work on real projects, and learn from more experienced people.
+
 
 
 ### Why Choose Me? 
-- Strong programming fundamentals with experience in C++, C, JavaScript, HTML, CSS.
-- Experience with web frameworks such as Angular, and Node.js for building applications.
+- I have experience with many different programming languages such as C++, C, JavaScript, HTML, CSS, TypeScript, Python.
+- Experience with web frameworks such as Angular and React.
 - Experienced in debugging, testing, and troubleshooting code to ensure the application runs correctly.
 - Familiar with version control systems like Git and Jira to collaborate effectively on team projects.
 - Knowledgeable in using REST APIs and JSON for data communication.
-- Currently learning Python, TypeScript, and React.
+
 
 ### My Skills: 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)   ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
