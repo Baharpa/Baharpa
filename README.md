@@ -1,5 +1,7 @@
 # Who I Am:
-- In the past two years I have spent most of my time around learning, building, and collaborating to create new software and applications that solve real-world problems. <br>
+Hi, my name is Bahar and I am a computer programming student working as a co-op student at the OPS.
+In the past two years I have spent most of my time around learning, building, and collaborating to create new software and applications that solve real-world problems. <br>
+
 
 
 
